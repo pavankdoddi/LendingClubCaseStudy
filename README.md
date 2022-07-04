@@ -1,7 +1,8 @@
 # Lending Club Case Study
 > Lending club is the largest peer-to-peer marketplace connecting borrowers with lenders. 
 Borrowers apply through an online platform where they are assigned an internal score. 
-Lender has to decide 1) whether to lend and 
+Lender has to decide
+1) whether to lend and 
 2) the terms of loan such as interest rate, monthly instalment, tenure etc.
 Major contributors to lenders portfoliio are credit card loans, debt consolidation loans, Home improvement, Major Purchases etc
 
@@ -22,12 +23,12 @@ Major contributors to lenders portfoliio are credit card loans, debt consolidati
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-# From the above results we can see that following variables are effecting the default rate considerably:
-# 1. Grade/Sub Grade - 27%/46%
-# 2. Interest Rate - 19%
-# 3. Home Ownership - 16%
-# 4. Loan Amount - 7%
+### Conclusions
+From the above results we can see that following variables are effecting the default rate considerably:
+1. Grade/Sub Grade - 27%/46%
+2. Interest Rate - 19%
+3. Home Ownership - 16%
+4. Loan Amount - 7%
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
