@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Lending club is the largest peer-to-peer marketplace connecting borrowers with lenders. Borrowers apply through an online platform where they are assigned an internal score. Lender has to decide whether to lend and on what terms of loan such as interest rate, monthly instalment, tenure etc. Major contributors to lenders portfoliio are credit card loans, debt consolidation loans, Home improvement, Major Purchases etc.
+> Lending club is centered around empowering borrowers to meet their personal financial goals by enabling access to a broad range of financial products, services, and educational resources, all designed to help them pay less when borrowing and earn more when saving.Borrowers apply through an online platform where they are assigned an internal score. Lending Club has to decide whether to lend and on what terms of loan such as interest rate, monthly instalment, tenure etc. Major contributors to lenders portfoliio are credit card loans, debt consolidation loans, Home improvement, Major Purchases etc.
 
 
 ## Table of Contents
